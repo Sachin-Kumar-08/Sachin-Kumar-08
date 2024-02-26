@@ -5,8 +5,6 @@
 - 👯 I’m looking to collaborate on Web Technology <br>
 - 🤔 I’m looking for help with Placements in FAANG <br>
 - 💬 Ask me about Tech <br>
-- 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/hareesh-r/)
 - 😄 Pronouns: Techie <br>
 - ⚡ Fun fact: I'm learnig Japanese.
 
@@ -20,6 +18,3 @@
 
 ### 💻 Workspace Spec
 <img height="30" src="https://shields.io/badge/Windows--11cf?logo=Windows&style=social"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_3550H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
-
-
-[![Leetcode Stats](![LeetCode Stats](https://leetcard.jacoblin.cool/Sachin-Kumar-08?theme=light&font=Sansita&ext=contest))](https://leetcode.com/hareeshprogrammer)
