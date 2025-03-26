@@ -21,6 +21,6 @@
 
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sachin-Kumar-08&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sachin-Kumar-08&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-Kumar-08&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Sachin-Kumar-08&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sachin-Kumar-08&theme=default&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-Kumar-08&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
